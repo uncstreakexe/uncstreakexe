@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey, i'm uncstreakexe 👋
 
-<!--
-**uncstreakexe/uncstreakexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build frontend interfaces with TypeScript and React, mostly through Next.js and Vite these days. I care about web performance, design systems that hold up at scale, and UI that people can actually use without friction. TailwindCSS is usually involved.
 
-Here are some ideas to get you started:
+- 🔭 Refactoring a design system to cut render cost without losing accessibility.
+- keeps notes about web performance that will never be published
+- learning Next.js the slow way
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=uncstreakexe&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uncstreakexe&layout=compact&langs_count=8&hide_border=true&theme=ayu" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-2dd4bf?style=for-the-badge&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/TypeScript-2dd4bf?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Next.js-2dd4bf?style=for-the-badge&logoColor=white" alt="Next.js" />
